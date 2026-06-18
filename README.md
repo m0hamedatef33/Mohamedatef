@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- صورتك الشخصية -->
   <img src="<img width="1080" height="1920" alt="Snapchat-509694748" src="https://github.com/user-attachments/assets/e8722114-9e1b-4bbc-9feb-b137d31cd3d0" />
 " width="250" style="border-radius: 20px;" />
 
