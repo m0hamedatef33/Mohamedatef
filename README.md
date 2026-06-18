@@ -1,28 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Welcome</title>
-    <style>
-        body {
-            margin: 0;
-            display: flex;
-            justify-content: center; /* التوسيط العرضي */
-            align-items: center;     /* التوسيط الطولي */
-            min-height: 100vh;       /* جعل الطول بكامل مساحة الشاشة */
-            background-color: #f0f0f0; /* اختياري: لون خلفية */
-        }
-        img {
-            max-width: 60%; /* العرض الذي حددته أنت */
-            height: auto;
-        }
-    </style>
-</head>
 <body>
-
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Welcome" />
-
-</body>
-</html>
+    <center>
+        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome" />
+    </center>
 </body>
 </html><h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
 
