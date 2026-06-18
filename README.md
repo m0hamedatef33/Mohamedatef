@@ -1,5 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+</head>
+<body>
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome" />
-<h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
+
+</body>
+</html><h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
 
 <h3 align="center">
 Electronics and Communications Engineering Student | Data Science Enthusiast
