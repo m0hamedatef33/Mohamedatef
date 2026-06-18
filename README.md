@@ -1,5 +1,4 @@
 "Transforming data into intelligence... I am Mohamed Atef"
-</html><h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
 
 <h3 align="center">
 Electronics and Communications Engineering Student | Data Science Enthusiast
