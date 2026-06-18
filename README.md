@@ -1,5 +1,13 @@
-"Transforming data into intelligence... I am Mohamed Atef"
+<div align="center">
+  <!-- صورتك الشخصية -->
+  <img src="<img width="1080" height="1920" alt="Snapchat-509694748" src="https://github.com/user-attachments/assets/e8722114-9e1b-4bbc-9feb-b137d31cd3d0" />
+" width="250" style="border-radius: 20px;" />
 
+  <br>
+
+  <!-- جملة الذكاء الاصطناعي بتكتب نفسها بشكل احترافي -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Transforming+data+into+intelligence...;I+am+Mohamed+Atef" alt="Typing SVG" />
+</div>
 <h3 align="center">
 Electronics and Communications Engineering Student | Data Science Enthusiast
 </h3>
