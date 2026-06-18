@@ -96,13 +96,5 @@ For freelance work or collaboration:
 <img src="https://github-readme-stats.vercel.app/api?username=m0hamedatef33&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamedatef33&layout=compact&theme=tokyonight" />
-</p>
 
----
 
-## 🤝 Connect With Me
-
-<p align="center">
-<a href="https://github.com/m0hamedatef33">
