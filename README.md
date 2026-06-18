@@ -73,8 +73,3 @@ For freelance work or collaboration:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamedatef33&layout=compact&theme=gotham" />
-</p>
