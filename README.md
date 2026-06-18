@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome" />
-  <br>
-  <br>
-  <kbd><b>Transforming data into intelligence...</b></kbd>
-  <br>
-  <br>
-  <b>I am Mohamed Atef</b>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=250&section=header&text=Transforming%20data%20into%20intelligence...&fontSize=30&animation=fadeIn&desc=I%20am%20Mohamed%20Atef&descAlignY=70&descAlign=50" />
 </p>
 </html><h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
 
