@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3e0e8424-5ce9-4d01-ac2f-9eadb65d59e6" alt="image" width="433" height="411"/>
-</p>
+
 
 <h3 align="center">
 Electronics and Communications Engineering Student | Data Science Enthusiast
@@ -12,6 +10,9 @@ Electronics and Communications Engineering Student | Data Science Enthusiast
   <img src="https://komarev.com/ghpvc/?username=m0hamedatef33&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3e0e8424-5ce9-4d01-ac2f-9eadb65d59e6" alt="image" width="433" height="411"/>
+</p>
 ---
 
 ## 👨‍💻 About Me
