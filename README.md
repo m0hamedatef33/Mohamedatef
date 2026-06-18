@@ -1,67 +1,85 @@
-# Hi, I'm Mohamed Atef 👋
+<h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
 
-🎓 Electronics and Communications Engineering Student  
-📊 Data Science Trainee  
-💻 Interested in Data Analysis, Machine Learning, and developing data-driven solutions.
+<h3 align="center">
+Electronics and Communications Engineering Student | Data Science Enthusiast
+</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m0hamedatef33&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I am an Electronics and Communications Engineering student with practical experience in Data Science and Machine Learning.
+I am an Electronics and Communications Engineering student interested in Data Science, Machine Learning, and data-driven solutions.
 
-I have developed skills in:
-- Python Programming
-- Data Analysis and Visualization
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Machine Learning Algorithms
-- Building and Evaluating Predictive Models
+I have practical experience in analyzing datasets, building machine learning models, and applying Python-based tools for data processing and visualization.
 
-I apply my knowledge through practical projects and continuous learning to improve my technical skills.
+Currently, I am improving my technical skills through practical projects and continuous learning.
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### Programming
-🐍 Python  
-⚡ C/C++
+### Programming Languages
+- 🐍 Python
+- ⚡ C / C++
 
-### Data Science
+### Data Science & Analysis
 - NumPy
 - Pandas
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
 
 ### Machine Learning
-- Regression
-- Classification
+- Scikit-learn
+- Regression Models
+- Classification Algorithms
 - Model Evaluation
 - Feature Engineering
 
 ### Tools
+- visual studio code
 - Jupyter Notebook
 - Google Colab
 - Git & GitHub
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-🔹 Breast Cancer Classification using Machine Learning  
-- Data preprocessing
+### 🩺 Breast Cancer Classification
+- Data preprocessing and analysis
 - Exploratory Data Analysis
-- Model training and evaluation
+- Machine Learning classification models
+- Model evaluation and comparison
 
-🔹 Heart Disease Prediction  
+### ❤️ Heart Disease Prediction
 - Data analysis
-- Machine learning classification models
+- Feature selection
+- Building predictive models
 
-🔹 HAM10000 Skin Disease Classification  
-- Image data processing
+### 🩻 HAM10000 Skin Disease Classification
+- Image dataset processing
 - Classification techniques
+- Machine learning workflow
+
+---
+
+## 📜 Certifications
+
+🎓 Data Science Training Program  
+**National Telecommunication Institute (NTI)**  
+120 Hours Training
+
+Topics covered:
+- Python for Data Science
+- Data Analysis
+- Data Visualization
+- Machine Learning Fundamentals
 
 ---
 
@@ -70,6 +88,27 @@ I apply my knowledge through practical projects and continuous learning to impro
 For freelance work or collaboration:
 
 📧 Email: mohamedatefmohamed53@gmail.com
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=m0hamedatef33&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0hamedatef33&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://github.com/m0hamedatef33">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+</p>
 
 ---
 
