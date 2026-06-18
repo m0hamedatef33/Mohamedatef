@@ -78,12 +78,3 @@ For freelance work or collaboration:
 📧 Email: mohamedatefmohamed53@gmail.com
 
 ---
-
-## 📊 My GitHub Stats
-
-ده هيبقى مناسب أكتر ليك من المثال اللي بعته لأنه يعكس إنك **مهندس اتصالات + Data Science + AI** بدل ما يكون خاص بمبرمج Web.
-
-
-
-
-<img width="433" height="411" alt="image" src="https://github.com/user-attachments/assets/ecf5d27c-5068-417b-8f3f-d68937580b3a" />
