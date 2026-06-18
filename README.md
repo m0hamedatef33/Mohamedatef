@@ -1,10 +1,4 @@
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" />
-  <br>
-  <img src="https://img.shields.io/badge/AI_Engineer-Transforming_data_into_intelligence...-blue?style=for-the-badge&logo=ai" />
-  <br>
-  <kbd><b>I am Mohamed Atef</b></kbd>
-</p>
+"Transforming data into intelligence... I am Mohamed Atef"
 </html><h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
 
 <h3 align="center">
