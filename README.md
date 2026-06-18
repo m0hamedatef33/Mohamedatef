@@ -1,32 +1,88 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+# Hi, I'm Mohamed Atef 👋
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+🎓 Electronics and Communications Engineering Student  
+🤖 Data Science & Artificial Intelligence Enthusiast  
+📊 Passionate about Data Analysis, Machine Learning, and building intelligent solutions.
 
-```txt
-TypeScript   6 hrs 47 mins         ███████████████░░░░░░░░░░   59.60 %
-Markdown     2 hrs 8 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-Go           50 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Python       29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-Diff         29 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
-```
+---
 
-<!--END_SECTION:waka-->
+## 🚀 About Me
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+I am a Data Science enthusiast with a background in Electronics and Communications Engineering.
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+I have hands-on experience in:
+- Python Programming
+- Data Analysis and Visualization
+- Machine Learning Algorithms
+- Data Preprocessing and Feature Engineering
+- Building and Evaluating ML Models
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+Currently, I am improving my skills in Artificial Intelligence and applying my knowledge through real-world projects.
+
+---
+
+## 🛠️ Skills & Tools
+
+### Programming Languages
+🐍 Python  
+📊 SQL  
+⚡ C/C++
+
+### Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+
+### Machine Learning
+- Regression
+- Classification
+- Model Evaluation
+- Feature Engineering
+
+### Tools
+- Jupyter Notebook
+- Google Colab
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+🔹 Breast Cancer Classification using Machine Learning  
+- Data preprocessing
+- Exploratory Data Analysis
+- Model training and evaluation
+
+🔹 Heart Disease Prediction
+- Data analysis
+- Feature selection
+- Classification models
+
+🔹 Skin Disease Classification (HAM10000)
+- Image processing
+- Deep Learning concepts
+
+---
+
+## 📫 Contact Me
+
+For freelance work or collaboration:
+
+📧 Email: mohamedatefmohamed53@gmail.com
+
+---
+
+## 📊 My GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" />
+</p>
+
+ده هيبقى مناسب أكتر ليك من المثال اللي بعته لأنه يعكس إنك **مهندس اتصالات + Data Science + AI** بدل ما يكون خاص بمبرمج Web.
 
 
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+<img width="433" height="411" alt="image" src="https://github.com/user-attachments/assets/ecf5d27c-5068-417b-8f3f-d68937580b3a" />
