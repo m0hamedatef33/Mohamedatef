@@ -1,36 +1,31 @@
 # Hi, I'm Mohamed Atef 👋
 
 🎓 Electronics and Communications Engineering Student  
-🤖 Data Science & Artificial Intelligence Enthusiast  
-📊 Passionate about Data Analysis, Machine Learning, and building intelligent solutions.
+📊 Data Science Trainee  
+💻 Interested in Data Analysis, Machine Learning, and developing data-driven solutions.
 
 ---
 
 ## 🚀 About Me
 
-I am a Data Science enthusiast with a background in Electronics and Communications Engineering.
+I am an Electronics and Communications Engineering student with practical experience in Data Science and Machine Learning.
 
-I have hands-on experience in:
+I have developed skills in:
 - Python Programming
 - Data Analysis and Visualization
+- Data Preprocessing
+- Exploratory Data Analysis (EDA)
 - Machine Learning Algorithms
-- Data Preprocessing and Feature Engineering
-- Building and Evaluating ML Models
+- Building and Evaluating Predictive Models
 
-Currently, I am improving my skills in Artificial Intelligence and applying my knowledge through real-world projects.
+I apply my knowledge through practical projects and continuous learning to improve my technical skills.
 
 ---
 
-<img width="433" height="411" alt="image" src="https://github.com/user-attachments/assets/60bb3b01-29cf-457d-b68e-bf1b2d88da5d" />
-
 ## 🛠️ Skills & Tools
 
-### Programming Languages                                                     
-
-
-
+### Programming
 🐍 Python  
-📊 SQL  
 ⚡ C/C++
 
 ### Data Science
@@ -53,21 +48,20 @@ Currently, I am improving my skills in Artificial Intelligence and applying my k
 
 ---
 
-## 📌 Featured Projects
+## 📌 Projects
 
 🔹 Breast Cancer Classification using Machine Learning  
 - Data preprocessing
 - Exploratory Data Analysis
 - Model training and evaluation
 
-🔹 Heart Disease Prediction
+🔹 Heart Disease Prediction  
 - Data analysis
-- Feature selection
-- Classification models
+- Machine learning classification models
 
-🔹 Skin Disease Classification (HAM10000)
-- Image processing
-- Deep Learning concepts
+🔹 HAM10000 Skin Disease Classification  
+- Image data processing
+- Classification techniques
 
 ---
 
@@ -77,4 +71,11 @@ For freelance work or collaboration:
 
 📧 Email: mohamedatefmohamed53@gmail.com
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" />
+</p>
 ---
