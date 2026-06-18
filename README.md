@@ -1,8 +1,6 @@
-<body>
-    <center>
-        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome" />
-    </center>
-</body>
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%" alt="Welcome" />
+</p>
 </html><h1 align="center">Hi 👋, I'm Mohamed Atef</h1>
 
 <h3 align="center">
