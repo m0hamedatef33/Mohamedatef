@@ -21,9 +21,16 @@ Currently, I am improving my skills in Artificial Intelligence and applying my k
 
 ---
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" />
+</p>
+
 ## 🛠️ Skills & Tools
 
-### Programming Languages
+### Programming Languages                                                     
+
+
+
 🐍 Python  
 📊 SQL  
 ⚡ C/C++
@@ -75,10 +82,6 @@ For freelance work or collaboration:
 ---
 
 ## 📊 My GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" />
-</p>
 
 ده هيبقى مناسب أكتر ليك من المثال اللي بعته لأنه يعكس إنك **مهندس اتصالات + Data Science + AI** بدل ما يكون خاص بمبرمج Web.
 
