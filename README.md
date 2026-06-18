@@ -1,8 +1,4 @@
 <div align="center">
-  <!-- حط رابط صورتك اللي حملتها من كانفا مكان الرابط اللي تحت ده -->
-
-
-  <!-- الجملة المتحركة فقط -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Transforming+data+into+intelligence...;I+am+Mohamed+Atef" alt="Typing SVG" />
 </div>
 Electronics and Communications Engineering Student | Data Science Enthusiast
