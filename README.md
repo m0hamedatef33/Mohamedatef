@@ -74,8 +74,6 @@ For freelance work or collaboration:
 ---
 
 ## 📈 GitHub Stats
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gotham" />
+<img src="https://github-readme-stats.vercel.app/api?username=m0hamedatef33&show_icons=true&theme=gotham" />
 </p>
----
